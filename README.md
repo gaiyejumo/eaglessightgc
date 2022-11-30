@@ -28,7 +28,7 @@ git clone https://github.com/d3toxg/eaglessightgc.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/d3toxg).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/gaiyejumo).
 
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
