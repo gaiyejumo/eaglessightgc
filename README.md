@@ -17,13 +17,13 @@ To install **Eaglessightgc**, follow these steps:
 Linux and macOS:
 
 ```
-sudo git clone https://github.com/d3toxg/eaglessightgc.git
+sudo git clone https://github.com/gaiyejumo/eaglessightgc.git
 ```
 
 Windows:
 
 ```
-git clone https://github.com/d3toxg/eaglessightgc.git
+git clone https://github.com/gaiyejumo/eaglessightgc.git
 ```
 
 ## Contact
